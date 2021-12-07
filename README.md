@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying a Master in Linguistic
+- 🌱 I’m currently learning R and Python
+
 <!--
 **carelas/carelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
